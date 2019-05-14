@@ -5,7 +5,7 @@ import threading
 def main():
     for i in range(5):
         print('hello python`')
-    pass
+        print('我怀疑彬彬在搞黄色，但是我现在没有证据')    
 
 
 
