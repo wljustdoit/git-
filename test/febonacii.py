@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # coding=utf-8
+import time 
+import threading
+
 def febonacii(num):
     a = 0
     b = 1
